@@ -1,6 +1,6 @@
 {
     "name": "secret/package",
-    "description": "desc",
+    "description": "here we have sensitive private info.",
     "require": {
         "php": ">=7.4"
     },
